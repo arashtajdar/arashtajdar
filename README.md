@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arashtajdar" alt="arashtajdar" /></a> </p>
 
+- PHP developer with 8 years of experience with advanced PHP knowledge and a strong ability to develop applications using the Laravel framework, as well as experience with Version Control Systems and project management softwares. I’m comfortable with Git revision control and using JIRA on a daily basis. I’m able to setup CentOS servers and I’m comfortable using them.
+I have experience of writing clean and efficient API services. I have also worked on many large-scale systems with many users and high load.
+
 - 🌱 I’m currently learning PHP/LARAVEL as always, **but also learning VueJs because I think it's great :)**
 
 - 📫 How to reach me **arash.tajdar@gmail.com**
